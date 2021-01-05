@@ -9,7 +9,7 @@
     "yt": "node mp3-mp4.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "fluent-ffmpeg": "^2.1.2",
     "google-auth-library": "^5.5.1",
     "googleapis": "^44.0.0",
