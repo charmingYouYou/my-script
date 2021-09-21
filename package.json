@@ -16,7 +16,7 @@
     "inquirer": "^6.5.0",
     "node-youtube-resumable-upload": "^0.2.1",
     "puppeteer": "^2.0.0",
-    "ssh2": "0.8.5"
+    "ssh2": "1.4.0"
   },
   "bin": {
     "build": "node dev-build.js"
